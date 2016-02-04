@@ -1,0 +1,6 @@
+event-service.iml
+event-service.ipr
+event-service.iws
+.gradle
+/build
+config-server.*
